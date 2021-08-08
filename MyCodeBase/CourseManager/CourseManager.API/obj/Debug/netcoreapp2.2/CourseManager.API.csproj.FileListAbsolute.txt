@@ -1,0 +1,16 @@
+C:\GitRepos\TestingWithEFCore\MyCodeBase\CourseManager\CourseManager.API\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\GitRepos\TestingWithEFCore\MyCodeBase\CourseManager\CourseManager.API\bin\Debug\netcoreapp2.2\appsettings.json
+C:\GitRepos\TestingWithEFCore\MyCodeBase\CourseManager\CourseManager.API\bin\Debug\netcoreapp2.2\CourseManager.API.deps.json
+C:\GitRepos\TestingWithEFCore\MyCodeBase\CourseManager\CourseManager.API\bin\Debug\netcoreapp2.2\CourseManager.API.runtimeconfig.json
+C:\GitRepos\TestingWithEFCore\MyCodeBase\CourseManager\CourseManager.API\bin\Debug\netcoreapp2.2\CourseManager.API.runtimeconfig.dev.json
+C:\GitRepos\TestingWithEFCore\MyCodeBase\CourseManager\CourseManager.API\bin\Debug\netcoreapp2.2\CourseManager.API.dll
+C:\GitRepos\TestingWithEFCore\MyCodeBase\CourseManager\CourseManager.API\bin\Debug\netcoreapp2.2\CourseManager.API.pdb
+C:\GitRepos\TestingWithEFCore\MyCodeBase\CourseManager\CourseManager.API\obj\Debug\netcoreapp2.2\CourseManager.API.AssemblyInfoInputs.cache
+C:\GitRepos\TestingWithEFCore\MyCodeBase\CourseManager\CourseManager.API\obj\Debug\netcoreapp2.2\CourseManager.API.AssemblyInfo.cs
+C:\GitRepos\TestingWithEFCore\MyCodeBase\CourseManager\CourseManager.API\obj\Debug\netcoreapp2.2\CourseManager.API.csproj.CoreCompileInputs.cache
+C:\GitRepos\TestingWithEFCore\MyCodeBase\CourseManager\CourseManager.API\obj\Debug\netcoreapp2.2\CourseManager.API.RazorAssemblyInfo.cache
+C:\GitRepos\TestingWithEFCore\MyCodeBase\CourseManager\CourseManager.API\obj\Debug\netcoreapp2.2\CourseManager.API.RazorAssemblyInfo.cs
+C:\GitRepos\TestingWithEFCore\MyCodeBase\CourseManager\CourseManager.API\obj\Debug\netcoreapp2.2\CourseManager.API.RazorTargetAssemblyInfo.cache
+C:\GitRepos\TestingWithEFCore\MyCodeBase\CourseManager\CourseManager.API\obj\Debug\netcoreapp2.2\CourseManager.API.dll
+C:\GitRepos\TestingWithEFCore\MyCodeBase\CourseManager\CourseManager.API\obj\Debug\netcoreapp2.2\CourseManager.API.pdb
+C:\GitRepos\TestingWithEFCore\MyCodeBase\CourseManager\CourseManager.API\obj\Debug\netcoreapp2.2\CourseManager.API.genruntimeconfig.cache
